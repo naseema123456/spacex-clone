@@ -41,6 +41,10 @@ img1{
     align-items: center;
     color: white;
 }
+.search a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
 .title1 a{
     position: absolute;
     left: 50px;
@@ -177,4 +181,19 @@ footer{
     /* left: 30px; */
 
 
+}
+.button1:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+.button2:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+.button3:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
 }
